@@ -13,6 +13,7 @@ Alguses oli ambitsioonikalt ka soov tuvastada patarei + ja - poolt aga selle kla
 Dataset on siiski liiga väike, et saaks suurema confidence variableiga piiritleda false positive.
 AA ja AAA tuvastus tundub olema ka väga juhuslik.
 Datasetis oleks pidanud klassifitseerima ka patareid, mis ei kuulunud 5 klassi juurde.
+Kui patareid on väha lähestikku, siis kategoriseerimine muutub väga kirjuks.
 
 Mida saaks tulevikus arendada:
 
