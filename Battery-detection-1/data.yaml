@@ -1,0 +1,16 @@
+names:
+- DuracellAA
+- DuracellAAA
+- PanasonicAA
+- PanasonicAAA
+- RainbowAA
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: battery-detection-bscuv
+  url: https://universe.roboflow.com/tro012/battery-detection-bscuv/dataset/1
+  version: 1
+  workspace: tro012
+test: C:/UNI/MachineVision/final_project/Battery-detection-1/test/images
+train: C:/UNI/MachineVision/final_project/Battery-detection-1/train/images
+val: C:/UNI/MachineVision/final_project/Battery-detection-1/train/images
